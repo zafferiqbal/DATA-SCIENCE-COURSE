@@ -1,6 +1,5 @@
 import turtle
 
-
 screen = turtle.Screen()
 screen.bgcolor("black")
 screen.title("Colour Loop Artwork")
@@ -9,7 +8,6 @@ artist = turtle.Turtle()
 artist.speed("fastest")
 artist.hideturtle()
 artist.pensize(2)
-
 
 def draw_petal(size, colour):
     artist.color(colour)
