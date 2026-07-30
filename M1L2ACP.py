@@ -1,6 +1,6 @@
-passenger_name = "Aarav"        
-destination = "Goa"             
-ticket_price = 850.50           
+passenger_name = "Zaffer"        
+destination = "Delhi"             
+ticket_price = 700.50           
 number_of_tickets = 3           
 is_available = True           
  
